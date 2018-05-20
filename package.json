@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/photusenigma/react-custom-form-lib-example/issues"
   },
-  "homepage": "https://github.com/photusenigma/react-custom-form-lib-example#readme"
+  "homepage": "https://github.com/photusenigma/react-custom-form-lib-example#readme",
+  "dependencies": {
+    "react": "^16.3.2",
+    "react-dom": "^16.3.2"
+  }
 }
